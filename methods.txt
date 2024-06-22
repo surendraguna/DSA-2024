@@ -1,0 +1,11 @@
+1. Time Complexity
+2. hashing
+3. two pointers 
+4. prefix and sufix arrays
+5. Slow and Fast pointers
+6. Bitwise xor
+7. subsets and sets
+8. Binary Search to find squre root(x)
+9. Comparator vs Arrays.sort
+10. sorting
+11. list

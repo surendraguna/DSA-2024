@@ -1,0 +1,30 @@
+31-04-24
+1. 303 prefix and suffix
+2. 238 Revise
+3. 42 Traped water hard leetcode
+4. 1 using hashing target and required
+
+01-05-24
+1. hashing
+2. Sorting
+
+03-05-24
+0. monotonic function
+1. eko eko
+2. aggrasive cow
+
+04-06-24
+1. Merge Sort
+
+05-06-24
+1. second mid element in even linked list (fast.next.next != null)
+
+06-06-24
+1. AddTwoList
+2. stack
+
+07-06-24
+1. queue
+
+08-06-24
+1. PriorityQueue

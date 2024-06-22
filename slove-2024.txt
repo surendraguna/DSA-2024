@@ -1,0 +1,8 @@
+1. Closest numbers (DP)
+2. Minimum processing time
+3. Fun with Vowels (DP)
+4. finding mid element in linkedlist (slow(mid) fast = fast.next.next))
+5. Almost displined constants
+6. Nearset 
+7. Kadane’s Algorithm
+8. Sum of Subarry with maximum

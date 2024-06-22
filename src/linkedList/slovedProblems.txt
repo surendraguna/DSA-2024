@@ -1,0 +1,5 @@
+1. detect loop
+2. starting point of loop
+3. mid
+4. palindrome
+5. reverse

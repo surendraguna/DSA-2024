@@ -1,0 +1,3 @@
+read -> examples -> approach -> code -> test cases
+
+input -> process -> output
